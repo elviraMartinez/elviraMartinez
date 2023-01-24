@@ -17,6 +17,7 @@ https://mysocialhousing.co.uk </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  📧 Contact me at elvira.martinwz@snexus.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
