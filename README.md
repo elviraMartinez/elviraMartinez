@@ -1,5 +1,5 @@
 ![logo](https://github.com/elviraSnexus/elviraSnexus/blob/main/elvaria_cover.jpg)
-<h1 align="center">Hi 👋, I'm Elvira Martinwz</h1>
+<h1 align="center">Hi 👋, I'm Elvira Martinez</h1>
 <h3 align="center">Professional Web developer with 5+ years of expertise in MERN/MEAN/PHP stacks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehain1&label=Profile%20views&color=0e75b6&style=flat" alt="nehain1" /> </p>
